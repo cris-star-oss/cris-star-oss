@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm cris-star-oss</h1>
-<h3 align="center">Eu sou estudante de desenvolvimento de sistemas na Etec Albert Einstein, e eu esqueci meu github aberto na escola</h3>
+<h1 align="center">Hi 👋, I'm cris</h1>
+<h3 align="center">Eu sou estudante de desenvolvimento de sistemas na Etec Albert Einstein</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cris-star-oss&label=Profile%20views&color=0e75b6&style=flat" alt="cris-star-oss" /> </p>
 
